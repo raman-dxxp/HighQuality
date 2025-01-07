@@ -1,0 +1,15 @@
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\bin\Debug\net6.0\FirstProg.exe
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\bin\Debug\net6.0\FirstProg.deps.json
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\bin\Debug\net6.0\FirstProg.runtimeconfig.json
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\bin\Debug\net6.0\FirstProg.dll
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\bin\Debug\net6.0\FirstProg.pdb
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\obj\Debug\net6.0\FirstProg.csproj.AssemblyReference.cache
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\obj\Debug\net6.0\FirstProg.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\obj\Debug\net6.0\FirstProg.AssemblyInfoInputs.cache
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\obj\Debug\net6.0\FirstProg.AssemblyInfo.cs
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\obj\Debug\net6.0\FirstProg.csproj.CoreCompileInputs.cache
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\obj\Debug\net6.0\FirstProg.dll
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\obj\Debug\net6.0\refint\FirstProg.dll
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\obj\Debug\net6.0\FirstProg.pdb
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\obj\Debug\net6.0\FirstProg.genruntimeconfig.cache
+D:\College\Software Quality\PROG-8051 High Quality\Week 1\FirstProg\FirstProg\obj\Debug\net6.0\ref\FirstProg.dll
